@@ -24,7 +24,8 @@ class FotoramaAsset extends AssetBundle
     public $sourcePath = '@vendor/bower/fotorama';
 
     public $css = [
-        'fotorama.css'
+  // Moved to main file to change
+  //    'fotorama.css'
     ];
 
     public $js = [
